@@ -11,6 +11,10 @@ Simpsons characters in pure CSS
 
 All images are copyright to their respective owners. 
 
+<br>
+<br>
+<hr>
+
 Versão em Português / Portuguese version:
 ## Simpsons em CSS
 
