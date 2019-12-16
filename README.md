@@ -25,6 +25,9 @@ Caracteres Simpsons em CSS puro
 
 Todas as imagens são de direitos autorais de seus respectivos proprietários.
 
+<br>
+<br>
+
 <hr>
 <stong>Pedro Lourenço</strong><br>
 <Strong>dev.pedrolourenco@gmail.com</strong><br>
